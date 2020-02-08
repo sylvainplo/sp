@@ -1,0 +1,28 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "John DOE",
+      "poste": ["GB"],
+      "age": 18
+    },
+    {
+      "id": 2,
+      "name": "Stan Smith",
+      "poste": ["DG", "DD"],
+      "age": 28
+    },
+    {
+      "id": 3,
+      "name": "Jack Moe",
+      "poste": ["DC"],
+      "age": 22
+    },
+    {
+      "id": 4,
+      "name": "Mack Lee",
+      "poste": ["DC", "DD"],
+      "age": 22
+    }
+  ]
+}
